@@ -1,0 +1,13 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.wrapper{
+  background-color: black;
+  display: grid;
+  place-items: center;
+}
